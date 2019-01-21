@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_now_playing"
+        android:title="@string/menu_now_playing"
+        android:icon="@drawable/ic_picture_in_picture_white_24dp" />
+    <item android:id="@+id/action_up_coming"
+        android:title="@string/menu_up_coming"
+        android:icon="@drawable/ic_schedule_white_24dp" />
+    <item android:id="@+id/action_search"
+        android:title="@string/menu_search"
+        android:icon="@drawable/ic_search_white_24dp" />
+    <item android:id="@+id/action_favorite"
+        android:title="@string/menu_fav"
+        android:icon="@drawable/ic_favorite_white_24dp" />
+</menu>

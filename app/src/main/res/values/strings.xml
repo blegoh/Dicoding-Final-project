@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Yusuf Dicoding 1</string>
+    <string name="title_activity_detail_movie">Detail Movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="menu_now_playing">Now Playing</string>
+    <string name="menu_up_coming">Up Coming</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_fav">Favorites</string>
+
+    <string name="hint_search">Search</string>
+    <string name="label_rating">Rating</string>
+    <string name="label_adult">Adult</string>
+    <string name="label_language">Language</string>
+    <string name="label_genres">Genres</string>
+    <string name="label_loading">Loading</string>
+    <string name="label_release">Release</string>
+    <string name="label_overview">Overview</string>
+
+    <string name="menu_1">Language</string>
+    <string name="menu_2">Setting</string>
+    <string name="appwidget_text">Favorite</string>
+    <string name="empty_text">NO DATA</string>
+
+    <string name="content_title">Movie Catalogue</string>
+    <string name="content_text">Movie Catalogue is missing you</string>
+    <string name="subtext">Movie Catalogue</string>
+    <string name="title_activity_setting">Setting</string>
+</resources>

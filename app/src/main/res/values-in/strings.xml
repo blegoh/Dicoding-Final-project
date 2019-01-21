@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yusuf Dicoding 1</string>
+    <string name="title_activity_detail_movie">Detail Film</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="menu_now_playing">Sedang Tayang</string>
+    <string name="menu_up_coming">Akan Datang</string>
+    <string name="menu_search">Cari</string>
+    <string name="menu_fav">Favorit</string>
+
+    <string name="hint_search">Cari</string>
+    <string name="label_rating">Rating</string>
+    <string name="label_adult">Dewasa</string>
+    <string name="label_language">Bahasa</string>
+    <string name="label_genres">Genres</string>
+    <string name="label_loading">Loading</string>
+    <string name="label_release">Rilis</string>
+    <string name="label_overview">Deskripsi</string>
+
+    <string name="menu_1">Bahasa</string>
+    <string name="menu_2">Pengaturan</string>
+    <string name="appwidget_text">Favorit</string>
+    <string name="empty_text">Kosong</string>
+
+    <string name="content_title">Katalog Film</string>
+    <string name="content_text">Aku kangen, buka dong!!</string>
+    <string name="subtext">Katalog Film</string>
+    <string name="title_activity_setting">Pengaturan</string>
+</resources>
