@@ -19,7 +19,7 @@
             android:id="@+id/lblDailyReminder"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
-            android:text="Daily reminder" />
+            android:text="@string/label_daily_reminder" />
 
         <Switch
             android:layout_margin="10dp"
@@ -37,7 +37,7 @@
             android:id="@+id/lblReleaseReminder"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
-            android:text="Daily reminder" />
+            android:text="@string/label_release_today" />
 
         <Switch
             android:layout_margin="10dp"

@@ -17,6 +17,8 @@
     <string name="label_loading">Loading</string>
     <string name="label_release">Release</string>
     <string name="label_overview">Overview</string>
+    <string name="label_daily_reminder">Daily Reminder</string>
+    <string name="label_release_today">Release Today</string>
 
     <string name="menu_1">Language</string>
     <string name="menu_2">Setting</string>

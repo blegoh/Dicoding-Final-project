@@ -18,6 +18,8 @@
     <string name="label_loading">Loading</string>
     <string name="label_release">Rilis</string>
     <string name="label_overview">Deskripsi</string>
+    <string name="label_daily_reminder">Pengingat Harian</string>
+    <string name="label_release_today">Rilis Hari ini</string>
 
     <string name="menu_1">Bahasa</string>
     <string name="menu_2">Pengaturan</string>
