@@ -129,7 +129,7 @@ public class DetailMovieActivity extends AppCompatActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.options_menu, menu);
+        inflater.inflate(R.menu.options_menu_detail_movie, menu);
         this.menu = menu;
         favoriteHelper.open();
         isFavorited = favoriteHelper.isFavorited(movie.getId());
