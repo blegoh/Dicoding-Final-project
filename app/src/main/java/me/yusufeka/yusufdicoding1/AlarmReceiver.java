@@ -47,7 +47,7 @@ public class AlarmReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
         String type = intent.getStringExtra(EXTRA_TYPE);
-        Log.e("Asu", type);
+        Log.e("tipe alarm", type);
         if(type.equals(TYPE_DAILY)){
             showDailyReminder(context);
         }else if (type.equals(TYPE_RELEASE)){
