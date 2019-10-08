@@ -7,13 +7,13 @@
     <string name="menu_now_playing">Now Playing</string>
     <string name="menu_up_coming">Up Coming</string>
     <string name="menu_search">Search</string>
-    <string name="menu_fav">Favorites</string>
+    <string name="menu_fav">Favorite</string>
 
     <string name="hint_search">Search</string>
     <string name="label_rating">Rating</string>
     <string name="label_adult">Adult</string>
     <string name="label_language">Language</string>
-    <string name="label_genres">Genres</string>
+    <string name="label_genres">Genre</string>
     <string name="label_loading">Loading</string>
     <string name="label_release">Release</string>
     <string name="label_overview">Overview</string>
@@ -26,7 +26,7 @@
     <string name="empty_text">NO DATA</string>
 
     <string name="content_title">Movie Catalogue</string>
-    <string name="content_text">Movie Catalogue is missing you</string>
+    <string name="content_text">Movie Catalogue is missing</string>
     <string name="subtext">Movie Catalogue</string>
     <string name="title_activity_setting">Setting</string>
 </resources>
